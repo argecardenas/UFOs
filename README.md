@@ -1,5 +1,5 @@
 # UFOs
-<img src="./images/nasa.png" alt="UFO Webpage">
+<img src="./static/images/nasa.png" alt="UFO Webpage">
 
 # Challenge
 
